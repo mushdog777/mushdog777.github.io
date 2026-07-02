@@ -27,12 +27,13 @@ twitter_username: jekyllrb
 github_username: mushdog777
 
 # Build settings
-theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9.2.1
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
